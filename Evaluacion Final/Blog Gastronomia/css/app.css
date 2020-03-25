@@ -1,0 +1,65 @@
+.row{
+  background: #F5F5F5
+}
+.Titulo1
+{
+  margin-left: 150px;
+}
+#Busqueda
+{
+  width: 19vw;
+  margin-top: 20px;
+}
+#Fila1
+{
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.Busqueda
+{
+  margin-top: 20px;
+}
+.Columna2
+{
+  border-bottom: 1px solid black;
+  background-color: #0676A6;
+}
+.Imagen456
+{
+  margin-top: 20px;
+}
+.Columna3
+{
+  border-right: 1px solid black;
+  background-color: #BBBDB7;
+}
+.Fila2
+{
+  background-color: #0676A6;
+  opacity: 0.9;
+}
+.Color1
+{
+  background-color: #52094D;
+}
+.Color2
+{
+  color: white;
+}
+.Color3
+{
+  background-color: #BBBDB7;
+}
+body
+{
+  background-image: url(Imagen1.jpg);
+  background-size: 100%;
+}
+.color4
+{
+  color: red;
+}
+.Columna5
+{
+  background-color: #BBBDB7;
+}

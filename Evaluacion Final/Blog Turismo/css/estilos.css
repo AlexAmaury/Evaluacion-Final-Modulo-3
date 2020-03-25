@@ -1,0 +1,29 @@
+img[src="Turismo.jpg"]
+{
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+}
+@media (max-width:1024px){
+.boton
+{
+  width: 20vw;
+}
+}
+.ImagenPrincipal
+{
+  min-height: 28rem;
+}
+.Relieve
+{
+  background-image: url("Relieve.jpg");
+  background-size: 100%;
+}
+body
+{
+  background-color: #A39794;
+}
+div[class="col l4 m12 s12"]
+{
+  text-align: center;
+}
